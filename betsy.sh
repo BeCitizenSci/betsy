@@ -2,7 +2,7 @@
 
 # load-betsyro.sh
 
-# This program is part of the Betsy project, it start Betsy in a
+# This program is part of the Betsy project, its start Betsy on a
 # Unix-like system
 
 # Copyright (C) 2015, 2016, 2018, 2020 Scott C. MacCallum
