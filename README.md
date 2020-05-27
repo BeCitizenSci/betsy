@@ -1,5 +1,5 @@
 # Betsy
 Betsy is an artificial intelligence
 
-# Requirements
+## Requirements
 CLISP: https://clisp.sourceforge.io/
